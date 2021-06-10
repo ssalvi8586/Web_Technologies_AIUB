@@ -1,1 +1,3 @@
-# Web_Technologies_AIUB
+# Web Technoologies Course Project
+Project Name: Project Bank Limited  
+
